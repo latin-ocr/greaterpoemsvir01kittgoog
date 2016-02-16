@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./greaterpoemsvir01kittgoog_0171.png"; bbox 0 0 2796 4287; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 803 4287 2796 4287">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 803 4287 2796 4287">
+     <span class='ocr_line' id='line_1_1' title="bbox 803 4287 2796 4287; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 803 4287 2649 4287; x_wconf 95' lang='lat' dir='ltr'>  </span> <span class='ocrx_word' id='word_1_2' title='bbox 803 4287 2796 4287; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2306 4287 2796 4287; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 2306 4287 2796 4287; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2158 1248 2357 2890">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2158 1248 2357 2890">
+     <span class='ocr_line' id='line_1_3' title="bbox 2158 1248 2266 2890; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2193 2660 2245 2890; x_wconf 69' lang='grc' dir='ltr'>Βοοκε</span> <span class='ocrx_word' id='word_1_5' title='bbox 2195 2522 2246 2613; x_wconf 80' lang='lat'>01=</span> <span class='ocrx_word' id='word_1_6' title='bbox 2158 2342 2248 2477; x_wconf 77' lang='grc' dir='ltr'>τΗε</span> <span class='ocrx_word' id='word_1_7' title='bbox 2200 1962 2266 2292; x_wconf 68' lang='grc' dir='ltr'>ογοιορε,</span> <span class='ocrx_word' id='word_1_8' title='bbox 2206 1687 2258 1911; x_wconf 71' lang='grc' dir='ltr'>οοΑετ</span> <span class='ocrx_word' id='word_1_9' title='bbox 2209 1546 2260 1638; x_wconf 78' lang='lat'>01=</span> <span class='ocrx_word' id='word_1_10' title='bbox 2173 1248 2266 1499; x_wconf 28' lang='lat' dir='ltr'>su—cu‘mr(</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2302 1855 2357 2342; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 2302 2194 2347 2342; x_wconf 79' lang='lat' dir='ltr'><strong>(From</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2304 1855 2357 2164; x_wconf 74' lang='lat' dir='ltr'><strong>Photograph.)</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
